@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Experience
-- 👀 I’m interested in creating animations
-- 🌱 I’m currently learning python
-- 💞
-- 📫 reach out to me at chriskobbyking@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m Experience
+I’m interested in creating animations
+I’m currently learning python
+Reach out to me at chriskobbyking@gmail.com
 
 <!---
 chriskobby73/chriskobby73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
