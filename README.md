@@ -1,4 +1,4 @@
-<p>Hi, I’m <em style = "font-size: 30px;>Experience</em></p>
+<p>Hi, I’m <em>Experience</em></p>
 <p>I’m interested in creating animations</p>
 <p>I’m currently learning python</p>
 <p>Reach out to me at 
