@@ -1,7 +1,7 @@
 <p>Hi, I’m <em>Experience</em></p>
 <p>I’m interested in creating animations</p>
 <p>I’m currently learning python</p>
-<br>Reach out to me at 
+Reach out to me at 
   <button>
     chriskobbyking@gmail.com
   </button>
